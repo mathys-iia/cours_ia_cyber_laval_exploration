@@ -31,7 +31,7 @@ Using the notebook "compare models":
 Once all these are done, you can continue to the [second part of the tutorial](https://github.com/MarieSacksick/midwest_survey_models).
 
 
-Answers:
+Answers (look at answers.txt to see the expected format):
 
 Question 1: How many examples are there in the dataset?
 Number of examples (rows): 2494 
